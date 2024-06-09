@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FYunusedemirci%2FYunusedemirci&psig=AOvVaw1L-eTsPKTs3VsnlCQD0igz&ust=1717988902683000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNirj97FzYYDFQAAAAAdAAAAABAD)
+![MasterHead](https://www.deviantart.com/pixeljeff/art/Coding-990517671)
 <h1 align="center">Hi 👋, I'm Pratik Tamang</h1>
 <h3 align="center">A passionate UI/UX Designer and software engineering student</h3>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
