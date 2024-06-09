@@ -1,4 +1,4 @@
-![MasterHead](https://www.deviantart.com/pixeljeff/art/Coding-990517671)
+![MasterHead](C:\Users\taman\Downloads\Neon Modern Cyber Punk YouTube Banner (2).png)
 <h1 align="center">Hi 👋, I'm Pratik Tamang</h1>
 <h3 align="center">A passionate UI/UX Designer and software engineering student</h3>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
